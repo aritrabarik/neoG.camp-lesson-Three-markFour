@@ -54,3 +54,20 @@ hr {
   display: inline;
   padding: 0rem 0.5rem;
 }
+
+/* navigation */
+
+.nav-container {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.nav-container .link {
+  color: white;
+  cursor: pointer;
+}
+
+.nav-container .nav-pills {
+  text-align: right;
+}
